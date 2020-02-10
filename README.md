@@ -3,7 +3,10 @@
 This application is a team manager where you can add multiple members to your team and be able to see them all in a convienient html file.
 
 ### Link to Deployed Application
--
+- https://morning-anchorage-25614.herokuapp.com/
+
+### Link to Github Repo
+- https://github.com/Modern-Viking/fastNotes
 
 ## Instructions
 Install the necessary npm packages and then run the file.  Follow the command line prompts and the app will return an html file with the appropriate information entered.
