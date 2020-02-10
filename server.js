@@ -9,6 +9,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static(__dirname + "/frontend"));
 
+// require("/backend/routes/apiRoutes")(app);
+require("./backend/routes/htmlRoutes")(app);
+
+
 app.listen(PORT, function() {
     console.log("App listening on PORT " + PORT);
   });
