@@ -11,6 +11,11 @@ This application is a team manager where you can add multiple members to your te
 ## Instructions
 Follow the link to the deployed application and click "get started".  from the /notes page you can add, delete, and see previous messages.  Enjoy the app!!
 
+## Contents
+- Landing page
+![screenshot]()
+- Notes page
+![screenshot]()
 ## Credits
 
 A big shout out to those who made this website possible. I appreciate all of your help to set this up!
