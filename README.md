@@ -9,7 +9,7 @@ This application is a team manager where you can add multiple members to your te
 - https://github.com/Modern-Viking/fastNotes
 
 ## Instructions
-Install the necessary npm packages and then run the file.  Follow the command line prompts and the app will return an html file with the appropriate information entered.
+Follow the link to the deployed application and click "get started".  from the /notes page you can add, delete, and see previous messages.  Enjoy the app!!
 
 ## Credits
 
