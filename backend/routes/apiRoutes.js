@@ -29,4 +29,20 @@ app.post("/api/notes", function(req, res) {
   });
 
     //Delete API route
+    app.delete("/api/notes/:id", function(req, res) {
+        let noteId = req.params.id;
+    
+        fs.readFile("./backend/db/db.json", "utf8", (err, data) => {
+          if (err) throw err;
+          const database = JSON.parse(data);
+          const newdB = database.filter(function(note) {
+            return note.id != noteId;
+          });
+    
+          fs.writeFile("./backend/db/db.json", JSON.stringify(newdB, null, 2), err => {
+            if (err) throw err;
+            res.send("./backend/db/db.json");
+          });
+        });
+      });
 };
