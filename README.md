@@ -13,9 +13,9 @@ Follow the link to the deployed application and click "get started".  from the /
 
 ## Contents
 - Landing page
-![screenshot]()
+![screenshot](https://github.com/Modern-Viking/fastNotes/blob/master/assets/images/landingPage.jpg?raw=true)
 - Notes page
-![screenshot]()
+![screenshot](https://github.com/Modern-Viking/fastNotes/blob/master/assets/images/notesPage.jpg?raw=true)
 ## Credits
 
 A big shout out to those who made this website possible. I appreciate all of your help to set this up!
