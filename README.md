@@ -1,6 +1,6 @@
 # fast Notes
 
-This application is a team manager where you can add multiple members to your team and be able to see them all in a convienient html file.
+This application is a note taker built with express and deployed with heroku.
 
 ### Link to Deployed Application
 - https://morning-anchorage-25614.herokuapp.com/
